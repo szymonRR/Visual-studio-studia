@@ -1,0 +1,30 @@
+C:\Users\Lukasz\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.exe
+C:\Users\Lukasz\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.pdb
+C:\Users\Lukasz\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Form1.resources
+C:\Users\Lukasz\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Properties.Resources.resources
+C:\Users\Lukasz\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.csproj.GenerateResource.Cache
+C:\Users\Lukasz\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.exe
+C:\Users\Lukasz\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.pdb
+E:\Dysk Google\Tymczasowe\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.exe
+E:\Dysk Google\Tymczasowe\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.pdb
+E:\Dysk Google\Tymczasowe\RozpoznawanieLiter\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.exe
+E:\Dysk Google\Tymczasowe\RozpoznawanieLiter\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.pdb
+E:\Dysk Google\Tymczasowe\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Form1.resources
+E:\Dysk Google\Tymczasowe\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Properties.Resources.resources
+E:\Dysk Google\Tymczasowe\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.exe
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.pdb
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.exe
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.pdb
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Form1.resources
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Properties.Resources.resources
+C:\Users\Szymon\Desktop\RozpoznawanieLiter\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.exe
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.pdb
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.exe
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\bin\Debug\RozpoznawanieLiter.pdb
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Form1.resources
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.Properties.Resources.resources
+C:\Users\Szymon\Desktop\RozpoznawanieLiter v1.3\RozpoznawanieLiter\obj\x86\Debug\RozpoznawanieLiter.csproj.GenerateResource.Cache
